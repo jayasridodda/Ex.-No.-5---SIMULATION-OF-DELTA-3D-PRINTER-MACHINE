@@ -27,46 +27,46 @@
 ## OUTPUT:
 ![Screenshot (18)](https://github.com/jayasridodda/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/123259278/3f1a4229-a873-49aa-ac8d-59f42f5c7881)
 
-BASE :
+# BASE :
 The foundation of the printer, typically made of sturdy materials such as metal or plastic.
 
-HOLDER :
+# HOLDER :
 A part that holds the linear rails and/or motor in place
 
-ROD :
+# ROD :
 vertical rails that the printer's effector (the part that moves around to print) travels up and down.
 
-TOP COVER :
+# TOP COVER :
 A cover that goes over the top of the printer to protect it from dust and debris.
 
-TOP COVER FRAME :
+# TOP COVER FRAME :
 A frame that supports the top cover
 
-LINEAR RAIL :
+# LINEAR RAIL :
 A type of guide rail that provides smooth, precise movement for the printer's effector.
 
-MOTOR :
+# MOTOR :
 A motor that provides the movement for the printer's effector, often using belts or pulleys to transfer the motion.
 
-BED :
+# BED :
 The platform on which the printer creates the printed object.
 
-SLIDE WITH CONNECTOR :
+# SLIDE WITH CONNECTOR :
 A connector that attaches the bed to the printer's frame.
 
-CONNECTING RODS :
+# CONNECTING RODS :
 Rods that connect the printer's effector to the bed, allowing it to move up and down.
 
-EXTRUDER :
+# EXTRUDER :
 The part of the printer that melts and deposits the filament used to create the printed object.
 
-PINS :
+# PINS :
 Small pins used to secure various parts of the printer together.
 
-MOTOR WITH GEAR :
+# MOTOR WITH GEAR :
 A motor that has a gear attached to it, often used to drive the printer's linear rails.
 
-LCD :
+# LCD :
 A display screen that allows the user to interact with the printer, typically used to select and control print settings.
 
 
@@ -74,8 +74,8 @@ A display screen that allows the user to interact with the printer, typically us
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: JAYASRI DODDA
+### Register Number: 212222240028
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
